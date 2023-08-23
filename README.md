@@ -1,4 +1,4 @@
-## Olá, sou Thomas Eduardo, um desenvolvedor focado em Backend. Minha paixão é criar soluções robustas que impulsionem a funcionalidade e o desempenho dos projetos. Com experiência no desenvolvimento de sistemas e na implementação de lógica de servidor, estou constantemente buscando aprimorar minhas habilidades e aprender com cada desafio. Estou entusiasmado em colaborar e contribuir para a comunidade de desenvolvedores. Vamos construir o futuro juntos!
+## Olá, sou Thomas Eduardo, um desenvolvedor focado em Backend. 
 
 Especializando-me em nuvem, segurança do cliente e recursos EC2.
 Forte foco em desenvolvimento back-end com
