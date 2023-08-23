@@ -1,7 +1,7 @@
 ## Oi eu sou o Thoma Eduardo , sou estudante de programação e tecnologia!
 
-# Dev em transição de carreira, especializando-me
-em nuvem, segurança do cliente e recursos EC2.
+# Dev em transição de carreira, 
+especializando-me em nuvem, segurança do cliente e recursos EC2.
 Forte foco em desenvolvimento back-end com
 Python, Java, PHP, JavaScript e Ruby. Prático e
 colaborativo, com experiência em DevOps e
@@ -25,7 +25,9 @@ expandir minha carreira na área de tecnologia.
 <div> 
   <a href="https://www.instagram.com/thmedu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thomas-nascimento-7b0508244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://outlook.live.com/mail/0/sentitem"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thomas-nascimento-7b0508244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+
+  </a> 
   
 </div>
