@@ -1,7 +1,6 @@
-## Oi eu sou o Thoma Eduardo , sou estudante de programação e tecnologia!
+## Oi eu sou o Thomas Eduardo sou Developer em BeckEnd. 
 
-# Dev em transição de carreira, 
-especializando-me em nuvem, segurança do cliente e recursos EC2.
+Especializando-me em nuvem, segurança do cliente e recursos EC2.
 Forte foco em desenvolvimento back-end com
 Python, Java, PHP, JavaScript e Ruby. Prático e
 colaborativo, com experiência em DevOps e
