@@ -1,13 +1,9 @@
 ## Olá, sou Thomas Eduardo, um desenvolvedor focado em Backend. 
 
-Especializando-me em nuvem, segurança do cliente e recursos EC2.
-Forte foco em desenvolvimento back-end com
-Python, Java, PHP, JavaScript e Ruby. Prático e
-colaborativo, com experiência em DevOps e
-projetos em andamento, incluindo análise de
-dados do Titanic. Busco oportunidades para
-aplicar habilidades em constante evolução e
-expandir minha carreira na área de tecnologia.
+Estou constantemente evoluindo na área de tecnologia, atualmente focado
+em seguir minha paixão por nuvem e segurança do cliente.
+
+Este Git é só para projetos de estudos.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="thmedu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
