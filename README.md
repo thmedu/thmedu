@@ -1,30 +1,30 @@
-## Olá, sou Thomas Eduardo, um desenvolvedor focado em Backend. 
 
-Estou constantemente evoluindo na área de tecnologia, atualmente focado
-em seguir minha paixão por nuvem e segurança do cliente.
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <h2>Olá, sou Thomas, um desenvolvedor Backend apaixonado por projetos baseados em livros.</h2>
 
-Este Git é só para projetos de estudos.
+  <p>Meus principais interesses e habilidades incluem:</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="thmedu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="thmedu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="thmedu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="thmedu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="thmedu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt"thmedu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="thmedu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/thmeduardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://outlook.live.com/mail/0/sentitem"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thomas-nascimento-7b0508244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <div style="display: inline_block"><br>
+    <img width="30" height="30" src="https://img.icons8.com/officel/80/php-logo.png" alt="php-logo"/>
+    <img width="30" height="30" src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/>
+    <img width="30" height="30" src="https://img.icons8.com/fluency/96/javascript.png" alt="javascript"/>
+    <img width="30" height="30" src="https://img.icons8.com/fluency/96/css3.png" alt="css3"/>
+    <img width="30" height="30" src="https://img.icons8.com/color/96/html-5--v2.png" alt="html-5--v2"/>
+    <img width="30" height="30" src="https://img.icons8.com/3d-fluency/94/cloud-development.png" alt="cloud-development"/>
+    <img width="30" height="30" src="https://img.icons8.com/color/96/amazon-web-services.png" alt="amazon-web-services"/>
+  </div>
 
-  </a> 
-  
-</div>
-# Estrutura-condicional-basica
-# Estrutura-condicional-basica
+  <div> 
+    <a href="https://www.instagram.com/thmeduardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="https://outlook.live.com/mail/0/sentitem"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/thomas-nascimento-7b0508244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; justify-items: center;">
+    <a href="https://github.com/thmedu/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thmedu&theme=chartreuse-dark" />
+    </a>
+  <a href="https://github.com/thmedu/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thmedu&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
+    </a>
+  </div>
