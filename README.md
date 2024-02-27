@@ -5,13 +5,13 @@
   <p>Meus principais interesses e habilidades incluem:</p>
 
   <div style="display: inline_block"><br>
-    <img width="30" height="30" src="https://img.icons8.com/officel/80/php-logo.png" alt="php-logo"/>
-    <img width="30" height="30" src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/>
-    <img width="30" height="30" src="https://img.icons8.com/fluency/96/javascript.png" alt="javascript"/>
-    <img width="30" height="30" src="https://img.icons8.com/fluency/96/css3.png" alt="css3"/>
-    <img width="30" height="30" src="https://img.icons8.com/color/96/html-5--v2.png" alt="html-5--v2"/>
-    <img width="30" height="30" src="https://img.icons8.com/3d-fluency/94/cloud-development.png" alt="cloud-development"/>
-    <img width="30" height="30" src="https://img.icons8.com/color/96/amazon-web-services.png" alt="amazon-web-services"/>
+    <img width="50" height="50" src="https://img.icons8.com/officel/80/php-logo.png" alt="php-logo"/>
+    <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/>
+    <img width="50" height="50" src="https://img.icons8.com/fluency/96/javascript.png" alt="javascript"/>
+    <img width="50" height="50" src="https://img.icons8.com/fluency/96/css3.png" alt="css3"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/96/html-5--v2.png" alt="html-5--v2"/>
+    <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/cloud-development.png" alt="cloud-development"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/96/amazon-web-services.png" alt="amazon-web-services"/>
   </div>
 
   <div> 
