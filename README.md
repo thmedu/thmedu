@@ -12,19 +12,19 @@
     <img width="50" height="50" src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS">
     <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/cloud-development.png" alt="Cloud Development">
     <img width="40" height="40" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="External Dev Coding and Development Flat Flat Juicy Fish">
+    <hr>
   </div>
   
- <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; justify-items: center;">
-  <h3>Desempenho</h3>
-  <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/thmedu/github-readme-stats">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center;">
+    <h3>Desempenho</h3>
+    <a href="https://github.com/thmedu?tab=repositories" target="_blank">
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=thmedu&theme=chartreuse-dark" alt="GitHub Stats">
     </a>
-    <a href="https://github.com/thmedu/convoychat">
+    <a href="https://github.com/thmedu?tab=repositories" target="_blank">
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thmedu&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" alt="Top Languages">
     </a>
+    <hr>
   </div>
-
 
   <div style="display: inline_block;">
     <h3>Frameworks:</h3>
@@ -41,6 +41,7 @@
     <img width="40" height="40" src="https://img.icons8.com/office/40/express-js.png" alt="Express.js">
     <img width="40" height="40" src="https://img.icons8.com/cute-clipart/64/flask.png" alt="Flask">
     <img width="40" height="40" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Logo">
+    <hr>
   </div>
 
   <div>
@@ -57,6 +58,7 @@
     <a href="https://www.linkedin.com/in/thomas-nascimento-7b0508244/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
     </a>
+    <hr>
   </div>
 
   <div>
@@ -66,6 +68,6 @@
     <img src="https://www.casadocodigo.com.br/cdn/shop/products/Awebmobile_Amazon_large.jpg?v=1631295248" alt="A Web Mobile" style="width: 150px; height: 150px;">
     <img src="https://www.casadocodigo.com.br/cdn/shop/products/cover_e50191a1-a941-42fd-ba0a-2c7cd92fcea1_large.jpg?v=1631660193" alt="Desenvolvimento web com PHP e MySQL" style="width: 150px; height: 150px;">
     <img src="https://www.casadocodigo.com.br/cdn/shop/products/Python_ebook_large.jpg?v=1631651164" alt="Python Escreva seus primeiros programas" style="width: 150px; height: 150px;">
+    <hr>
   </div>
 </div>
-
