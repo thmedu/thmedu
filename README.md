@@ -11,34 +11,29 @@
     <img width="50" height="50" src="https://img.icons8.com/fluency/96/css3.png" alt="CSS3">
     <img width="50" height="50" src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS">
     <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/cloud-development.png" alt="Cloud Development">
-    <img width="40" height="40" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="External Dev Coding and Development Flat Flat Juicy Fish">
     <hr>
   </div>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; justify-items: center;">
     <h3>Desempenho</h3>
-   <p align="centro">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Raia do GitHub de Saif"/>
-  </um>
-</p>
-
-<p align="centro">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Contribuição do GitHub do Al Siam"/>
-  </um>
-</p>
-
-<um> 
-    <a href="https://github.com/alsiam"><img alt="Estatísticas do Github do Al Siam" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  altura="192px" largura="49,5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" altura="192px" largura="49,5%"/></a>
-  <Br/>
-</um>
-
-
-! [Gráfico do Al Siam](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-    <hr>
+    <p align="center">
+      <a href="https://github.com/thmedu">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thmedu&theme=chartreuse-dark" alt="GitHub streak"/>
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/thmedu">
+        <img height="500" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmedu&theme=chartreuse-dark" alt="GitHub Contribution"/>
+      </a>
+    </p>
+    <a href="https://github.com/thmedu/github-readme-stats">
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=thmedu&theme=chartreuse-dark" alt="GitHub Stats">
+    </a>
+    <a href="https://github.com/thmedu/convoychat">
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thmedu&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" alt="Top Languages">
+    </a>
   </div>
+  <hr>
 
   <div style="display: inline_block;">
     <h3>Frameworks:</h3>
