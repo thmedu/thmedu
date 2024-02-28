@@ -13,28 +13,17 @@
     <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/cloud-development.png" alt="Cloud Development">
     <hr>
   </div>
-  
-<h3>Desempenho</h3>
-<p align="center">
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; justify-items: center;">
+  <h3>Desempenho</h3>
   <a href="https://github.com/thmedu">
-    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thmedu&theme=chartreuse-dark" alt="GitHub streak"/>
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=thmedu&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true&show_owner=git" />
   </a>
-</p>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 50px; justify-items: center;">
-  <a href="https://github.com/thmedu/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thmedu&repo=github-readme-stats&theme=chartreuse-dark" />
+  <a href="https://github.com/thmedu">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmedu&layout=compact&langs_count=8&theme=chartreuse-dark" />
   </a>
-  <a href="https://github.com/thmedu/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thmedu&repo=convoychat&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/thmedu/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thmedu&repo=github-readme-stats&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/thmedu/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thmedu&repo=convoychat&theme=chartreuse-dark" />
-  </a>
+  <hr>
 </div>
-<hr>
 
 
   <div style="display: inline_block;">
