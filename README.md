@@ -14,7 +14,7 @@
     <img width="40" height="40" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="External Dev Coding and Development Flat Flat Juicy Fish">
   </div>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; justify-items: center;">
+ <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; justify-items: center;">
   <h3>Desempenho</h3>
   <div style="display: flex; justify-content: center;">
     <a href="https://github.com/thmedu/github-readme-stats">
