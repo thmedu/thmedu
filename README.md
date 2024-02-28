@@ -15,7 +15,8 @@
   </div>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; justify-items: center;">
-    <h3>Desempenho:</h3>
+  <h3>Desempenho</h3>
+  <div style="display: flex; justify-content: center;">
     <a href="https://github.com/thmedu/github-readme-stats">
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=thmedu&theme=chartreuse-dark" alt="GitHub Stats">
     </a>
@@ -23,6 +24,7 @@
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thmedu&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" alt="Top Languages">
     </a>
   </div>
+
 
   <div style="display: inline_block;">
     <h3>Frameworks:</h3>
