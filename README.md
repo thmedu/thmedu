@@ -14,28 +14,25 @@
     <hr>
   </div>
   
-  <div style="display: grid; grid-template-columns: minmax(300px, 1fr) 1fr; gap: 50px; justify-items: center;">
-    <div>
-        <h3>Desempenho</h3>
-        <p align="center">
-            <a href="https://github.com/thmedu">
-                <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thmedu&theme=chartreuse-dark" alt="GitHub streak"/>
-            </a>
-        </p>
-        <p align="center">
-            <a href="https://github.com/thmedu">
-                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thmedu&theme=chartreuse-dark" alt="GitHub Contribution"/>
-            </a>
-        </p>
-    </div>
-    <div>
-        <a href="https://github.com/thmedu/github-readme-stats">
-            <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=thmedu&theme=chartreuse-dark" alt="GitHub Stats">
-        </a>
-        <a href="https://github.com/thmedu/convoychat">
-            <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thmedu&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" alt="Top Languages">
-        </a>
-    </div>
+<h3>Desempenho</h3>
+<p align="center">
+  <a href="https://github.com/thmedu">
+    <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thmedu&theme=chartreuse-dark" alt="GitHub streak"/>
+  </a>
+</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 50px; justify-items: center;">
+  <a href="https://github.com/thmedu/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thmedu&repo=github-readme-stats&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/thmedu/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thmedu&repo=convoychat&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/thmedu/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thmedu&repo=github-readme-stats&theme=chartreuse-dark" />
+  </a>
+  <a href="https://github.com/thmedu/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thmedu&repo=convoychat&theme=chartreuse-dark" />
+  </a>
 </div>
 <hr>
 
