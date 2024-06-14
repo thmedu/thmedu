@@ -1,6 +1,7 @@
 
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="50" height="50" />  Olaá, Bem Vindo ao meu GitHub
-Me chamo Thomas e atualmente sou desenvolvedor Web Fullstack Jr. Você sabe por que sou Fullstack? Porque admiro muito as tecnologias utilizadas tanto no front-end quanto no back-end. Estou vindo de uma transição de carreira onde fiz uma virada completa no meu mindset e mergulhei de cabeça no mundo da tecnologia.
+Me chamo Thomas e atualmente sou desenvolvedor Web Fullstack. Você sabe por que sou Fullstack? Porque admiro muito as tecnologias utilizadas tanto no front-end quanto no back-end. Estou vindo de uma transição de carreira onde fiz uma virada completa no meu mindset e mergulhei de cabeça no mundo da tecnologia. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" />
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Busts%20In%20Silhouette.webp" alt="Busts In Silhouette" width="40" height="40" />  Socials:
