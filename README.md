@@ -14,9 +14,10 @@ Me chamo Thomas e atualmente sou desenvolvedor Web Fullstack. Você sabe por que
 
 # Projetos 
 
-| Assistir Filmes        | Encurtador de Linkes   |
-| ---------------------- | ---------------------- |
-| ![Filme](Projetos/1.png)| ![Liinks ](Projetos/2.png)|
+| Assistir Filmes        | Encurtador de Linkes   | Assistir Filmes  | Encurtador de Linkes | Assistir Filmes    | Encurtador de Linkes   |
+
+| ---------------------- | ---------------------- || ---------------------- | ---------------------- || ---------------------- | ---------------------- | 
+| ![Filme](Projetos/1.png)| ![Liinks ](Projetos/2.png)| ![Filme](Projetos/3.png)| ![Liinks ](Projetos/4.png)| ![Filme](Projetos/5.png)| ![Liinks ](Projetos/6.png)|
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="40" height="40" /> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thmedu&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
