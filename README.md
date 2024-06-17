@@ -15,11 +15,9 @@ Me chamo Thomas e atualmente sou desenvolvedor Web Fullstack. Você sabe por que
 ---
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" />  Projetos  
 
-| WII          | Shortener         | GTA V                  | Pokedex                | Coca Cola              | Starbucks              | Cafeteria              |
+| Call of Duty           | Shortener         | GTA V                  | Pokedex                | Coca Cola              | Starbucks              | Cafeteria              |
 | ---------------------- | ------------------ | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | <a href="http://www.thomasnascimento.online"><img src="./Projetos/13.png" height="100" width="100"></a> | <a href="http://www.thomasnascimento.online"><img src="./Projetos/2.png" height="150" width="250"></a> | <a href="http://www.thomasnascimento.online"><img src="./Projetos/9.png" height="150" width="250"></a> | <a href="http://www.thomasnascimento.online"><img src="./Projetos/5.png" height="150" width="250"></a> | <a href="http://www.thomasnascimento.online"><img src="./Projetos/6.png" height="150" width="250"></a> | <a href="http://www.thomasnascimento.online"><img src="./Projetos/7.png" height="150" width="250"></a> | <a href="http://www.thomasnascimento.online"><img src="./Projetos/10.png" height="150" width="250"></a> |
-
-
 
 ---
 
