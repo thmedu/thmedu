@@ -14,10 +14,22 @@ Me chamo Thomas e atualmente sou desenvolvedor Web Fullstack. Você sabe por que
 
 # Projetos 
 
-| Assistir Filmes        | Encurtador de Linkes   | Assistir Filmes  | Encurtador de Linkes | Assistir Filmes    | Encurtador de Linkes   |
+<p float="left">
+  <img src="./Projetos/1.png" height="24" width="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="./Projetos/2.png" height="24" width="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="./Projetos/3.png" height="24" width="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="./Projetos/4.png" height="24" width="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="./Projetos/5.png" height="24" width="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="./Projetos/6.png" height="24" width="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-| ---------------------- | ---------------------- || ---------------------- | ---------------------- || ---------------------- | ---------------------- | 
-| ![Filme](Projetos/1.png)| ![Liinks ](Projetos/2.png)| ![Filme](Projetos/3.png)| ![Liinks ](Projetos/4.png)| ![Filme](Projetos/5.png)| ![Liinks ](Projetos/6.png)|
+</p>
+
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="40" height="40" /> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thmedu&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
