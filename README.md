@@ -15,17 +15,29 @@ Me chamo Thomas e atualmente sou desenvolvedor Web Fullstack. Você sabe por que
 # Projetos 
 
 <p float="left">
-  <img src="./Projetos/1.png" height="24" width="48" />
+  <img src="./Projetos/1.png" height="100" width="100" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="./Projetos/2.png" height="24" width="48" />
+   <img src="./Projetos/2.png" height="100" width="100" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="./Projetos/3.png" height="24" width="48" />
+   <img src="./Projetos/3.png" height="100" width="100" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="./Projetos/4.png" height="24" width="48" />
+   <img src="./Projetos/4.png" height="100" width="100" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="./Projetos/5.png" height="24" width="48" />
+   <img src="./Projetos/5.png" height="100" width="100" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="./Projetos/6.png" height="24" width="48" />
+   <img src="./Projetos/6.png" height="100" width="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="./Projetos/7.png" height="100" width="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="./Projetos/8.png" height="100" width="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="./Projetos/9.png" height="100" width="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="./Projetos/10.png" height="100" width="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="./Projetos/11.png" height="100" width="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="./Projetos/12.png" height="100" width="100" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
