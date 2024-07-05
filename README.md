@@ -1,6 +1,8 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="50" height="50" /> Olá! Bem-vindo ao meu GitHub!
 
-Olá, eu sou Thomas, um desenvolvedor Jr com foco em Frontend. Iniciei minha jornada na AWS, onde adquiri conhecimentos em Computação em Nuvem. Estou em transição de carreira e nos últimos 8 meses tenho me dedicado ao desenvolvimento na área de tecnologia. Atualmente, possuo habilidades sólidas em HTML, CSS, JavaScript (incluindo React e Node.js), além de conhecimentos básicos em Python e PHP.
+Me chamo Thomas, sou homem trans, negro e desenvolvedor frontend. Estou em uma jornada de várias mudanças, incluindo minha iniciativa de transição de carreira do varejo para a tecnologia.
+
+Meu foco é criar soluções acessíveis e de alto desempenho para todos os usuários, desde iniciantes até experientes. Meu primeiro contato com a tecnologia foi através da computação em nuvem e suas linguagens como Python, Linux, VPC e instâncias. Desde então, tenho me dedicado ao aprendizado e ao desenvolvimento de interfaces que não apenas aprimorem a experiência do usuário, mas também priorizem acessibilidade e eficiência.
 
 Aqui no meu perfil, você encontrará uma variedade de projetos, desde experimentos até projetos mais completos. Para conferir meus melhores trabalhos, visite meu site pessoal [aqui](https://www.thomasnascimento.online) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" />
 
