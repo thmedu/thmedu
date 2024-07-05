@@ -1,11 +1,9 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="50" height="50" />  Olá! Bem-vindo ao meu GitHub!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="50" height="50" /> Olá! Bem-vindo ao meu GitHub!
 
-Olá, sou o Thomas, desenvolvedor Web Frontend Jr. em São Paulo!
+Olá, eu sou Thomas, um desenvolvedor Jr com foco em Frontend. Iniciei minha jornada na AWS, onde adquiri conhecimentos em Computação em Nuvem. Estou em transição de carreira e nos últimos 8 meses tenho me dedicado ao desenvolvimento na área de tecnologia. Atualmente, possuo habilidades sólidas em HTML, CSS, JavaScript (incluindo React e Node.js), além de conhecimentos básicos em Python e PHP.
 
-SOU um desenvolvedor Web Frontend Jr. apaixonado por tecnologia e inovação. Minha jornada começou no mundo das vendas e administração, mas foi minha paixão por tecnologia que me trouxe para o desenvolvimento web.
+Aqui no meu perfil, você encontrará uma variedade de projetos, desde experimentos até projetos mais completos. Para conferir meus melhores trabalhos, visite meu site pessoal [aqui](https://www.thomasnascimento.online) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" />
 
-
-Neste perfil, você encontrará uma variedade de projetos, desde experimentos até projetos mais completos. Para conferir meus melhores trabalhos, clique aqui: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" />
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Busts%20In%20Silhouette.webp" alt="Busts In Silhouette" width="50" height="50" />  Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thmedu_/)
