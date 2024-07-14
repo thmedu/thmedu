@@ -2,12 +2,9 @@
 
 Me chamo Thomas, sou desenvolvedor frontend.
 
-Estou em uma jornada de várias mudanças, incluindo minha iniciativa de transição de carreira do varejo para a tecnologia.
+ Iniciando minha jornada através da AWS e aprimorando minhas habilidades em tecnologias como HTML, CSS, JavaScript (React, Node.js), Python e PHP.
 
-Meu foco é criar soluções acessíveis e de alto desempenho para todos os usuários, desde iniciantes até experientes.
-
-Aqui no meu perfil, você encontrará uma variedade de projetos, desde experimentos até projetos mais completos. Para conferir meus melhores trabalhos, visite meu site pessoal [aqui](https://www.thomasnascimento.online) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" />
-
+Estou focado em UX/UI para melhorar constantemente a experiência do usuário, buscando novos desafios para expandir meu conhecimento e habilidades. Meu objetivo é contribuir com soluções criativas e funcionais para projetos web.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" />
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Busts%20In%20Silhouette.webp" alt="Busts In Silhouette" width="50" height="50" />  Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thmedu_/)
