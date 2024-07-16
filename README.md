@@ -41,4 +41,5 @@ Sinta-se à vontade para entrar em contato comigo:
 
 ✉️ **Email**: thomas_webdev@outlook.com  
 📞 **Telefone**: (19) 9 9904-2072 
+
 📄 **Online CV**: [veja meu curriculo](https://www.notion.so/Thomas-Eduardo-Frontend-1170e2a4da684c9ba4efcdf8236b9405?pvs=4)
